@@ -1,4 +1,5 @@
 #source-towardsdatascience.com
+#On the progress to understande more about the code!
 
 class MinimalChain():
     def __init__(self): # initialize when creating a chain
